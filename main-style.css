@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 46px;
+color: #ffd3c5;
+}
+
+.main-article {
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+color: #000000;
+}
+
+.page-footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    color: #ffd3c5;
+}
