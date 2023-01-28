@@ -27,13 +27,6 @@ body{
     padding-top: 4%
     }
 
-    h3{
-    display: flex;
-    justify-content: center;
-    
-    }
-
-    
     .page-main {
 
     display: grid;
@@ -80,6 +73,12 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
+    }
+
+    h3{
+    display: flex;
+    justify-content: center;
+    
     }
 
     .shine-button {             /* внаглую позаимствовано с интернета */
